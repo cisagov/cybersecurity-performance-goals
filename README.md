@@ -48,8 +48,8 @@ protect systems supporting National Critical Functions.
 
 Join the [cybersecurity performance goals
 discussion](https://github.com/cisagov/cybersecurity-performance-goals/discussions).
- We welcome feedback about our current version of the CPGs and want to hear
- your suggestions for additions.
+We welcome feedback about our current version of the CPGs and want to hear
+your suggestions for additions.
 
 ## License ##
 
