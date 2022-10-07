@@ -3,11 +3,11 @@
 [![GitHub Build Status](https://github.com/cisagov/cybersecurity-performance-goals/workflows/build/badge.svg)](https://github.com/cisagov/cybersecurity-performance-goals/actions)
 
 We’re using [GitHub discussions](https://github.com/cisagov/cybersecurity-performance-goals/discussions)
-as a place to connect and engage in a critical conversations with other members
+as a place to connect and engage in critical conversations with other members
 in the community. We hope that you will:
 
 - Ask questions if something doesn't make sense.
-- Share your thoughts on existing, and ideas for future, cybersecuirty
+- Share your thoughts on existing, and ideas for future, cybersecurity
   performance goals (CPGs).
 - Engage with us and other community members on ideas and actions to update and
   improve future versions of the CPGs.
@@ -24,8 +24,8 @@ The National Security Memorandum (NSM) establishes a voluntary initiative
 intended to drive collaboration between the Federal Government and the critical
 infrastructure community to improve cybersecurity of control systems.
 
-The NSM Identifies the “need for baseline cybersecurity goals that are
-consistent across all critical infrastructure sectors, as well as aneed for
+The NSM identifies the “need for baseline cybersecurity goals that are
+consistent across all critical infrastructure sectors, as well as a need for
 security controls for select critical infrastructure that is dependent on
 control systems.” It instructs the Department of Homeland Security (DHS) to
 lead the development of cross-sector cybersecurity performance goals as well as
