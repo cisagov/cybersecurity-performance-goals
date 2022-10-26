@@ -2,6 +2,10 @@
 
 [![GitHub Build Status](https://github.com/cisagov/cybersecurity-performance-goals/workflows/build/badge.svg)](https://github.com/cisagov/cybersecurity-performance-goals/actions)
 
+<div align="center">
+<img width="460" src="asset/Banner.png">
+</div>
+
 We’re using [GitHub discussions](https://github.com/cisagov/cybersecurity-performance-goals/discussions)
 as a place to connect and engage in critical conversations with other members
 in the community. We hope that you will:
