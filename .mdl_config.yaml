@@ -34,8 +34,9 @@ MD029:
 
 # MD033/no-inline-html - Inline HTML
 MD033:
-  # The h1 and img elements are allowed to permit header images
+  # The div, h1, and img elements are allowed to permit header images
   allowed_elements:
+    - div
     - h1
     - img
 
