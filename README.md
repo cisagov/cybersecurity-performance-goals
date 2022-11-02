@@ -37,8 +37,7 @@ sector-specific cybersecurity performance goals.
 
 The CPGs were developed based on CISA’s operational data, widely published
 research on the current threat landscape, and collaboration with industry
-groups, and private sector experts. NIST provided feedback and guidance on the
-draft CPGs which was incorporated into the final CPGs document. While the CPGs
+groups, and private sector experts. While the CPGs
 were developed with critical infrastructure in mind, they are more broadly
 useful for other organizations as well. Organizations of all sizes can use the
 CPGs to prioritize which security goals reduce the most risk to their
